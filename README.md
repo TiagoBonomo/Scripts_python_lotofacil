@@ -1,7 +1,7 @@
 
 
 ## Série de scripts desenvolvidos em python a pedido de um entusiasta de apostas na lotofácil. 
-## Todos os scripts são basedos em regras solicitadas por teiceiro.
+## Todos os scripts são basedos em regras solicitadas por terceiro.
 ## Neste repsitório contem scripts:
 
 - Comparação entre conjuntos e combinações, verificação de interceções
